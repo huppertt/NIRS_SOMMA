@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOMMA_NIRS", "SOMMA_NIRS\SOMMA_NIRS.csproj", "{0E1FFC80-83F1-4124-A276-8C58DE9AABAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E1FFC80-83F1-4124-A276-8C58DE9AABAF}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{0E1FFC80-83F1-4124-A276-8C58DE9AABAF}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{0E1FFC80-83F1-4124-A276-8C58DE9AABAF}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{0E1FFC80-83F1-4124-A276-8C58DE9AABAF}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{0E1FFC80-83F1-4124-A276-8C58DE9AABAF}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{0E1FFC80-83F1-4124-A276-8C58DE9AABAF}.Debug|iPhone.Build.0 = Debug|iPhone
+		{0E1FFC80-83F1-4124-A276-8C58DE9AABAF}.Release|iPhone.ActiveCfg = Release|iPhone
+		{0E1FFC80-83F1-4124-A276-8C58DE9AABAF}.Release|iPhone.Build.0 = Release|iPhone
+	EndGlobalSection
+EndGlobal

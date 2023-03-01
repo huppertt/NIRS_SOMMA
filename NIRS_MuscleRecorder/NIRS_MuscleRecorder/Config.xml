@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+    
+
+<!-- These folders need to reflect where the data is stored on yor computer -->
+    <datadir>/Users/theodorehuppert/Desktop/MuscleRecordIR/Data</datadir>
+    
+    <udpaddress>10.0.0.1</udpaddress>
+    <udpport>2390</udpport>
+   
+    <allowEMG>false</allowEMG>
+    
+</config>
+
+
